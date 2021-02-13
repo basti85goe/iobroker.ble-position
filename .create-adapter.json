@@ -1,0 +1,36 @@
+{
+	"cli": true,
+	"adapterName": "ble-position",
+	"title": "BluetoothLE Position Tracking",
+	"contributors": [
+		"Sebastian"
+	],
+	"expert": "no",
+	"features": [
+		"adapter"
+	],
+	"adminFeatures": [],
+	"type": "geoposition",
+	"startMode": "daemon",
+	"connectionType": "local",
+	"dataSource": "assumption",
+	"connectionIndicator": "no",
+	"language": "JavaScript",
+	"adminReact": "no",
+	"tools": [
+		"ESLint",
+		"type checking"
+	],
+	"indentation": "Tab",
+	"quotes": "double",
+	"es6class": "yes",
+	"authorName": "nxtstep",
+	"authorGithub": "basti85goe",
+	"authorEmail": "privat@konzeptplus.net",
+	"gitRemoteProtocol": "HTTPS",
+	"gitCommit": "no",
+	"license": "MIT License",
+	"ci": "gh-actions",
+	"dependabot": "no",
+	"creatorVersion": "1.31.0"
+}
